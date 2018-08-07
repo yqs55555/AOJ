@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\01_01_ITP1">
+      <UniqueIdentifier>{e17f149a-9364-4e53-ab28-bed260e40048}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01_02_ALDS1">
+      <UniqueIdentifier>{ee200efc-cc29-4d95-8d0a-cc81b1ef9e26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ITP1_1_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_1_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_1_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_1_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_2_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_2_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_2_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_2_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_3_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_3_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_3_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_3_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_4_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_4_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_4_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_4_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_5_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_5_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_5_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_5_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_6_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_6_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_6_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_6_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_7_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_7_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_7_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_7_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_8_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_8_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_8_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_8_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_9_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_9_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_9_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_9_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_10_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_10_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_10_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_10_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_11_A.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_11_B.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_11_C.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ITP1_11_D.cpp">
+      <Filter>源文件\01_01_ITP1</Filter>
+    </ClCompile>
+    <ClCompile Include="ALDS1_1_A.cpp">
+      <Filter>源文件\01_02_ALDS1</Filter>
+    </ClCompile>
+    <ClCompile Include="ALDS1_1_B.cpp">
+      <Filter>源文件\01_02_ALDS1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
