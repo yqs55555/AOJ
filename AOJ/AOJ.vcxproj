@@ -111,8 +111,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ALDS1_1_C.cpp" />
     <ClCompile Include="ALDS1_1_A.cpp" />
     <ClCompile Include="ALDS1_1_B.cpp" />
+    <ClCompile Include="ALDS1_1_D.cpp" />
     <ClCompile Include="ITP1_10_A.cpp" />
     <ClCompile Include="ITP1_10_B.cpp" />
     <ClCompile Include="ITP1_10_C.cpp" />

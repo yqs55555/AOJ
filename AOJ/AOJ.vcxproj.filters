@@ -159,5 +159,11 @@
     <ClCompile Include="ALDS1_1_B.cpp">
       <Filter>源文件\01_02_ALDS1</Filter>
     </ClCompile>
+    <ClCompile Include="ALDS1_1_C.cpp">
+      <Filter>源文件\01_02_ALDS1</Filter>
+    </ClCompile>
+    <ClCompile Include="ALDS1_1_D.cpp">
+      <Filter>源文件\01_02_ALDS1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
