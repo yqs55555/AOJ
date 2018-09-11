@@ -1,4 +1,4 @@
-#if 1
+#if 0
 //date : 2018.9.11
 #include <iostream>
 using namespace std;
