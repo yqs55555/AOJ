@@ -1,7 +1,6 @@
 # This is my AOJ answer
 ## ITP1
-[ITP1_1_A:   Hello World](https://github.com/yqs55555/AOJ/blob/master/AOJ/ITP1_1_A.cpp)
-
+[ITP1_1_A:   Hello World](https://github.com/yqs55555/AOJ/blob/master/AOJ/ITP1_1_A.cpp) 
 [ITP1_1_B:   X Cubic](https://github.com/yqs55555/AOJ/blob/master/AOJ/ITP1_1_B.cpp)
 [ITP1_1_C:   Rectangle](https://github.com/yqs55555/AOJ/blob/master/AOJ/ITP1_1_C.cpp)
 [ITP1_1_D:   Watch](https://github.com/yqs55555/AOJ/blob/master/AOJ/ITP1_1_D.cpp)
